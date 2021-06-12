@@ -1,19 +1,7 @@
-## Notes
+#### The project provides dynamic shopping experience to the user. 
 
-#### Older React Version
+It provides the facility to view the products, to select the product based on different categories. It also helps customer to build their personalised cart and checkout.
 
-```
-"react": "^16.13.1",
-"react-dom": "^16.13.1",
-"react-scripts": "3.4.3",
-```
+Technologies used: HTML, CSS, React JS.
 
-#### Current React Version
-
-```
-"react": "^17.0.1",
-"react-dom": "^17.0.1",
-"react-scripts": "4.0.0",
-```
-
-# guided by john smilga
+The project is guided by John Smilga.
